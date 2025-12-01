@@ -1,4 +1,4 @@
-<h1 align="center">Gaming Analytics & Insights</h1>
+<h2 align="center">Gaming Analytics & Insights</h2>
 <p align="center">Analyzing user behavior and game performance using cohort analysis, KPI calculations, and data visualizations in Google Sheets.</b>
 </p>
 
