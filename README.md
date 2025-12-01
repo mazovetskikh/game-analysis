@@ -18,6 +18,8 @@ Pivot Tables – for cohort analysis and KPI tracking
 
 Charts & Graphs – to visualize trends and insight
 
+---
+
 ## 📊 Visualizations Created  
 
 >⬇️***Cohort Analysis Table*** – *tracking user retention across different months*
